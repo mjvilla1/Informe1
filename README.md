@@ -19,13 +19,15 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
     
 
           
-# 2.
+# 2. Marco Teorico
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Materiales.PNG)
 
+# 3. Explicación del Procedimiento
 
+# 4. Respuestas
 
-# 4. Video 
+# 5.Video 
 
 - https://www.youtube.com/watch?v=HFNKUNdoJRs
 
@@ -39,3 +41,5 @@ a los valores experimentales, con errores menores al 10% en su mayoría.
 
 -Este experimento realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento
 de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. 
+
+# 7. Bibliografía
