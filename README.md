@@ -76,7 +76,6 @@ Calculo de errores
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20error%20de%20voltaje.jpeg)
 
-![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error.PNG)
 
 # 5.Video 
 
