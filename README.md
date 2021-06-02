@@ -21,6 +21,11 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
           
 # 2. Marco Teorico
 
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/mapa%20laboratorio%201.PNG)
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Cuadro%20voltaje.PNG)
+
+
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Materiales.PNG)
 
 # 3. Explicación del Procedimiento
