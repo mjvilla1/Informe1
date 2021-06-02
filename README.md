@@ -11,11 +11,11 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
          o corriente en cualquier elemento que forme parte del circuito.    
     
     Objetivos Específicos
-         -Afianzar experimentalmente las leyes de conservacion de la energía eléctrica y la conservación
+         - Afianzar experimentalmente las leyes de conservacion de la energía eléctrica y la conservación
          de carga.
-         -Verificar el cumplimiento de las leyes de Kirchhoff de los nodos, que permiten conocer corrientes 
+         - Verificar el cumplimiento de las leyes de Kirchhoff de los nodos, que permiten conocer corrientes 
          y voltajes. 
-         -Obtener los parámetros y errores eléctricos en un circuito eléctrico dado.
+         - Obtener los parámetros y errores eléctricos en un circuito eléctrico dado.
     
 
           
@@ -74,13 +74,13 @@ Los datos medidos a los datos calculados en su mayoria solo tiene una deferencid
 
 # 6. Conclusiones 
 
--Hemos encontrado de forma teórica los valores de la corriente y del voltaje que fluye por
+- Hemos encontrado de forma teórica los valores de la corriente y del voltaje que fluye por
 cada una de las resistencias del circuito, para lo cual utilizamos las leyes de Kirchhoff.
 
--Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados 
+- Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados 
 a los valores experimentales, con errores menores al 10% en su mayoría.
 
--Este experimento realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento
+- Este experimento realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento
 de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. 
 
 # 7. Bibliografía
