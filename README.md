@@ -26,6 +26,8 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
 
 # 4. Video 
 
+- https://www.youtube.com/watch?v=HFNKUNdoJRs
+
 # 6. Conclusiones 
 
 -Hemos encontrado de forma teórica los valores de la corriente y del voltaje que fluye por
