@@ -29,6 +29,8 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
 
 # 4. Respuestas
 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Tabla%20%231.PNG)
 
 # 5.Video 
