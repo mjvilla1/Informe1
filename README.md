@@ -30,5 +30,6 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
 
 -Hemos encontrado de forma teórica los valores de la corriente y del voltaje que fluye por
 cada una de las resistencias del circuito, para lo cual utilizamos las leyes de Kirchhoff.
+
 -Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados 
 a los valores experimentales, con errores menores al 10% en su mayoría.
