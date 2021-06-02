@@ -72,7 +72,7 @@ Calculo de errores
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error.PNG)
 
-
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error%201.PNG)
 
 # 5.Video 
 
