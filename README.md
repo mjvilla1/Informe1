@@ -30,7 +30,21 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
 
 # 3. Explicación del Procedimiento
 
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Circuito%20laboratorio%201.jpeg)
 
+Se realiza el circuito electrico en un protoboard de igual manera que esta especificado.
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Circuito%20armado.jpeg)
+
+El circuito funciona de la siguiente manera:Se energiza el circuito con una fuente de 10V y 2.05mA la corriente pasa a la resistencia 1 y luego a las resistencias 2 y 3 con diferentes valores de voltaje e intencidad  ya que la corriente se divide, la corriente de la resistencia 3 se dirige a la resistencia 4 con el mismo valor de intensidad ya que es un circuito serie para despues volver a unirse a la corriente que sale desde la resistencia 2 y dirigirse a la resistencia 5 con la misma intensidad con la que se empezo el circuito y por ultimo de la resistencai 5 se dirige hacia el polo negativo de la fuente de alimentación.
+
+Para la medición de los voltajes de todas las resistencias del circuito procederemos a colocar el multímetro con unidad de medida volvió en conexion paralelo con cada resistencia.
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Medicion%20de%20voltaje.jpeg)
+
+Para la medición de los voltajes de todas las resistencias del circuito procederemos a colocar el multímetro con unidad de medida volvió en conexion paralelo con cada resistencia.
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Medicion%20de%20amperaje.jpeg)
 
 # 4. Respuestas
 
