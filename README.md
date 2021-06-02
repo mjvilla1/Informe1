@@ -19,7 +19,7 @@ INTEGRANTES: Jonathan Insuasti, Melany Villa, Cesar Garnica
     
 
           
-# 2. Marco Teorico
+# 2. Marco Teórico
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/mapa%20laboratorio%201.PNG)
 
