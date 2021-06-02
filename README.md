@@ -21,6 +21,7 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
           
 # 2.
 
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Materiales.PNG)
 
 
 
