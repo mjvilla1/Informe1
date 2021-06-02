@@ -68,6 +68,12 @@ Comparar los resultados medidos con los valores obtenidos al analizar el circuit
 
 Los datos medidos a los datos calculados en su mayoria solo tiene una deferencide de 0.2mA y 0.2V lo cual se puede concluir que son errores minimos que pueden ocurrir al momento de armar el circuito, y estos valores pueden ser por distintos factores.
 
+Calculo de errores
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error.PNG)
+
+
+
 # 5.Video 
 
 - https://www.youtube.com/watch?v=HFNKUNdoJRs
