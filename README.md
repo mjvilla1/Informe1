@@ -46,6 +46,8 @@ Para la medición de los voltajes de todas las resistencias del circuito procede
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Medicion%20de%20amperaje.jpeg)
 
+Para los calculos a realizar nos basamos con la ley de ohm y la ley de Kirchoff para sacar los valores de voltaje e intensidad en cada uno de los materiales electricos.
+
 # 4. Respuestas
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
@@ -55,6 +57,16 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 Tabla 1.2. Verificación de la LVK
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Verificaci%C3%B3n%20LVK.PNG)
+
+Tabla 1.3. Verificación de la LCK
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/%23%20de%20Nodos.PNG)
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Table%201.3.jpeg)
+
+Comparar los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya.
+
+Los datos medidos a los datos calculados en su mayoria solo tiene una deferencide de 0.2mA y 0.2V lo cual se puede concluir que son errores minimos que pueden ocurrir al momento de armar el circuito, y estos valores pueden ser por distintos factores.
 
 # 5.Video 
 
