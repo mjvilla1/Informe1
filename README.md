@@ -11,6 +11,17 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
          o corriente en cualquier elemento que forme parte del circuito.    
     
     Objetivos Específicos
+         -Afianzar experimentalmente las leyes de conservacion de la energía eléctrica y la conservación
+         de carga.
+         -Verificar la ley de Kirchhoff; ley de Nodos 
+         -Obtener los parámetros eléctricos en un circuito eléctrico dado.
+    
+          
+1. Afianzar experimentalmente las leyes de conservación de la energía eléctrica y la
+Conservación de carga.
+
+2. Verificar las leyes de Kirchoff : Ley de Mallas y ley de Nodos.
+
           
 # 2.
 
