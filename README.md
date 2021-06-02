@@ -85,4 +85,5 @@ de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser
 
 # 7. Bibliografía
 
-Khan Academy. (2021). Khanacademy.org. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+- Khan Academy. (2021). Khanacademy.org. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+- Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
