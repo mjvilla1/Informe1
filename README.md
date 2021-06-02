@@ -1,6 +1,6 @@
 # Informe Laboratorio 1
 
-INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
+INTEGRANTES: Jonathan Insuasti, Melany Villa, Cesar Garnica
 
 # 1. OBJETIVOS
 
