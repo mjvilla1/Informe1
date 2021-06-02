@@ -33,6 +33,10 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Tabla%20%231.PNG)
 
+Tabla 1.2. Verificación de la LVK
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Verificaci%C3%B3n%20LVK.PNG)
+
 # 5.Video 
 
 - https://www.youtube.com/watch?v=HFNKUNdoJRs
