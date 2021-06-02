@@ -72,6 +72,8 @@ Calculo de errores
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20error%20fromula.jpeg)
 
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error%201.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20error%20de%20voltaje.jpeg)
 
 ![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Calculo%20de%20error.PNG)
