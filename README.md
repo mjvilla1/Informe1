@@ -2,7 +2,7 @@
 
 INTEGRANTES: Jonathan Insuasti, Melany Villa, Cesar Garnica
 
-# 1. OBJETIVOS
+# 1. Objetivos
 
       Objetivo General
      
