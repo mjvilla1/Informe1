@@ -25,7 +25,11 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
 
 # 3. Explicación del Procedimiento
 
+
+
 # 4. Respuestas
+
+![](https://github.com/mjvilla1/ImagenesLab1/blob/main/Tabla%20%231.PNG)
 
 # 5.Video 
 
