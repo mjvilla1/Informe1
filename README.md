@@ -15,7 +15,7 @@ INTEGRANTES: Jonathan Insuati, Melany Villa, Cesar Garnica
          de carga.
          -Verificar el cumplimiento de las leyes de Kirchhoff de los nodos, que permiten conocer corrientes 
          y voltajes. 
-         -Obtener los parámetros eléctricos en un circuito eléctrico dado.
+         -Obtener los parámetros y errores eléctricos en un circuito eléctrico dado.
     
 
           
@@ -33,3 +33,6 @@ cada una de las resistencias del circuito, para lo cual utilizamos las leyes de 
 
 -Los valores de corriente y voltaje determinados por leyes de Kirchhoff son muy aproximados 
 a los valores experimentales, con errores menores al 10% en su mayoría.
+
+-Este experimento realizado sobre las leyes de Kirchhoff es importante para un mejor entendimiento
+de la razón por la cual estas leyes son válidas y qué tan precisas pueden ser. 
